@@ -7,7 +7,7 @@ Patika.dev merge sort projesi.
 * Big-O gösterimini yazınız.
 
 # Dizinin merge sort aşamaları:
-![Image](https://ibb.co/rMYXXjn)
+![Image](https://www.canva.com/design/DAGKdFAXK3s/-3xnSwISb1ff9uTHnofIvA/view?utm_content=DAGKdFAXK3s&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 
 # Big-O gösterimi:
 Step 1 -> n
